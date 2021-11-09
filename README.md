@@ -1,1 +1,1 @@
-# power3247.github.io
+# react 연습 프로젝트
